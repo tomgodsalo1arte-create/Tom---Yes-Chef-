@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UNITY PROJECTS\\Tom - Yes Chef!\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\tom - yes chef!\\assets\\scripts\\core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\tom - yes chef!\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\tom - yes chef!\\assets\\scripts\\ui\\startui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\startui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\tom - yes chef!\\assets\\scripts\\ingredients\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ingredients\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\tom - yes chef!\\assets\\scripts\\ui\\customerwindowui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\customerwindowui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\tom - yes chef!\\assets\\scripts\\customer\\customerwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\customer\\customerwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\tom - yes chef!\\assets\\scripts\\stations\\stoveslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stations\\stoveslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\tom - yes chef!\\assets\\scripts\\stations\\choppingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stations\\choppingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\tom - yes chef!\\assets\\scripts\\ui\\preparationprogressui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\preparationprogressui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\tom - yes chef!\\assets\\scripts\\orders\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\orders\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\tom - yes chef!\\assets\\scripts\\ui\\gametimerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gametimerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\tom - yes chef!\\assets\\scripts\\ui\\scoreui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\scoreui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\tom - yes chef!\\assets\\scripts\\core\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\UNITY PROJECTS\\Tom - Yes Chef!\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\UNITY PROJECTS\\Tom - Yes Chef!\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T18:24:08.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUI.cs",
+              "DocumentMoniker": "C:\\UNITY PROJECTS\\Tom - Yes Chef!\\Assets\\Scripts\\UI\\StartUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\StartUI.cs",
+              "ToolTip": "C:\\UNITY PROJECTS\\Tom - Yes Chef!\\Assets\\Scripts\\UI\\StartUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\StartUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T18:12:06.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\UNITY PROJECTS\\Tom - Yes Chef!\\Assets\\Scripts\\Ingredients\\Ingredient.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ingredients\\Ingredient.cs",
+              "ToolTip": "C:\\UNITY PROJECTS\\Tom - Yes Chef!\\Assets\\Scripts\\Ingredients\\Ingredient.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ingredients\\Ingredient.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T17:59:26.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StoveSlot.cs",
+              "DocumentMoniker": "C:\\UNITY PROJECTS\\Tom - Yes Chef!\\Assets\\Scripts\\Stations\\StoveSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Stations\\StoveSlot.cs",
+              "ToolTip": "C:\\UNITY PROJECTS\\Tom - Yes Chef!\\Assets\\Scripts\\Stations\\StoveSlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Stations\\StoveSlot.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwFYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T17:36:03.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChoppingTable.cs",
+              "DocumentMoniker": "C:\\UNITY PROJECTS\\Tom - Yes Chef!\\Assets\\Scripts\\Stations\\ChoppingTable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Stations\\ChoppingTable.cs",
+              "ToolTip": "C:\\UNITY PROJECTS\\Tom - Yes Chef!\\Assets\\Scripts\\Stations\\ChoppingTable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Stations\\ChoppingTable.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAwGMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T17:18:04.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PreparationProgressUI.cs",
+              "DocumentMoniker": "C:\\UNITY PROJECTS\\Tom - Yes Chef!\\Assets\\Scripts\\UI\\PreparationProgressUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PreparationProgressUI.cs",
+              "ToolTip": "C:\\UNITY PROJECTS\\Tom - Yes Chef!\\Assets\\Scripts\\UI\\PreparationProgressUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PreparationProgressUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T16:45:20.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerWindowUI.cs",
+              "DocumentMoniker": "C:\\UNITY PROJECTS\\Tom - Yes Chef!\\Assets\\Scripts\\UI\\CustomerWindowUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\CustomerWindowUI.cs",
+              "ToolTip": "C:\\UNITY PROJECTS\\Tom - Yes Chef!\\Assets\\Scripts\\UI\\CustomerWindowUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\CustomerWindowUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T16:14:35.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerWindow.cs",
+              "DocumentMoniker": "C:\\UNITY PROJECTS\\Tom - Yes Chef!\\Assets\\Scripts\\Customer\\CustomerWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Customer\\CustomerWindow.cs",
+              "ToolTip": "C:\\UNITY PROJECTS\\Tom - Yes Chef!\\Assets\\Scripts\\Customer\\CustomerWindow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Customer\\CustomerWindow.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwv04AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T16:14:20.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\UNITY PROJECTS\\Tom - Yes Chef!\\Assets\\Scripts\\Core\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\GameManager.cs",
+              "ToolTip": "C:\\UNITY PROJECTS\\Tom - Yes Chef!\\Assets\\Scripts\\Core\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\GameManager.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T13:53:34.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameTimerUI.cs",
+              "DocumentMoniker": "C:\\UNITY PROJECTS\\Tom - Yes Chef!\\Assets\\Scripts\\UI\\GameTimerUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GameTimerUI.cs",
+              "ToolTip": "C:\\UNITY PROJECTS\\Tom - Yes Chef!\\Assets\\Scripts\\UI\\GameTimerUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GameTimerUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T14:41:19.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScoreUI.cs",
+              "DocumentMoniker": "C:\\UNITY PROJECTS\\Tom - Yes Chef!\\Assets\\Scripts\\UI\\ScoreUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ScoreUI.cs",
+              "ToolTip": "C:\\UNITY PROJECTS\\Tom - Yes Chef!\\Assets\\Scripts\\UI\\ScoreUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ScoreUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T14:30:00.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderManager.cs",
+              "DocumentMoniker": "C:\\UNITY PROJECTS\\Tom - Yes Chef!\\Assets\\Scripts\\Orders\\OrderManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Orders\\OrderManager.cs",
+              "ToolTip": "C:\\UNITY PROJECTS\\Tom - Yes Chef!\\Assets\\Scripts\\Orders\\OrderManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Orders\\OrderManager.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T13:55:31.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\UNITY PROJECTS\\Tom - Yes Chef!\\Assets\\Scripts\\Core\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\ScoreManager.cs",
+              "ToolTip": "C:\\UNITY PROJECTS\\Tom - Yes Chef!\\Assets\\Scripts\\Core\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\ScoreManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T13:53:36.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
